@@ -44,7 +44,7 @@ Nem todas as ideias eu consigo colocar em prática, mas, sempre consigo deixalas
 </p>
 <p align="center">
     <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
-        <img src="images/AnimatedIcons.PNG" alt="AnimatedIcons screanshot">
+        <img src="images/AnimatedIcons.png" alt="AnimatedIcons screanshot">
     </a>
 </p>
 
@@ -53,11 +53,11 @@ Um pacote de Icones totalmente animados para web, os icones sao criados com HTM,
 <br>
 
 <p align="center">
-<a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener"> JJGaming </a>
+<a href="https://github.com/WilkerLopes/JJGaming" rel="noopener"> JJGaming </a>
 </p>
 <p align="center">
-    <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
-        <img src="images/jjgAMING.png" alt="JJGaming screanshot">
+    <a href="https://github.com/WilkerLopes/JJGaming" rel="noopener">
+        <img src="images/JJGaming.png" alt="JJGaming screanshot">
     </a>
 </p>
 Uma plataforma de jogos simples, mas com jogos multiplayer disponível em multiplataformas. Só precisa de um navegador pra poder jogar. indepedente do dispositivo utilizado.
