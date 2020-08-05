@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/--E34F26.svg?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/--1572b6.svg?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/--1572b6.svg?style=flat-square&logo=ionic)
-![](https://img.shields.io/badge/--1572b6.svg?style=flat-square&logo=ionic)
+![](https://img.shields.io/badge/--4479A1.svg?style=flat-square&logo=mysql)
 
 </div>
 
@@ -24,7 +24,7 @@
 ## 📝 Table of Contents
 
 - [Projetos](#project)
-- [Idea / Solution](#idea)
+- [Idea / Soluções](#idea)
 - [Futuro](#future)
 
 ## 🧐 Projetos <a name="problem_statement"></a>
@@ -40,20 +40,25 @@ Varias idéias que sempre gera um ótimo aprendizado. Elas surgem a partir de pr
 Nem todas as ideias eu consigo colocar em prática, mas, sempre consigo deixalas prontas no papel, esperando para serem codificadas. Um dias elas vão sair do papel e estar disponivel para todos. Alguns exemplos de ideias que ja sairam do papel:
 
 <p align="center">
-  <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
-  AnimatedIcons
- <img src="images/AnimatedIcons.PNG" alt="AnimatedIcons screanshot"></a>
+<a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener"> AnimatedIcons </a>
 </p>
-
+<p align="center">
+    <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
+        <img src="images/AnimatedIcons.PNG" alt="AnimatedIcons screanshot">
+    </a>
+</p>
 
 Um pacote de Icones totalmente animados para web, os icones sao criados com HTM, CSS e alguns com SVG. As animações são feitas com css, mas com trigger por meio de script Essa é a idéia que eu mais expero ver um dia em pleno funcionamento e com força total. 
 <br>
 <br>
 
 <p align="center">
-  <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
-  JJGaming
- <img src="images/jjgAMING.png" alt="JJGaming screanshot"></a>
+<a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener"> JJGaming </a>
+</p>
+<p align="center">
+    <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
+        <img src="images/jjgAMING.png" alt="JJGaming screanshot">
+    </a>
 </p>
 Uma plataforma de jogos simples, mas com jogos multiplayer disponível em multiplataformas. Só precisa de um navegador pra poder jogar. indepedente do dispositivo utilizado.
 
