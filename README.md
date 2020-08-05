@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/iy8xKq7.png" alt="Wikler Lopes"></a>
 </p>
-<h3 align="center">👋 Hi, me chamo Wikler Lopes</h3>
+<h2 align="center">👋 Hi, me chamo Wikler Lopes</h2>
 
 <div align="center">
 
@@ -15,16 +15,11 @@
 
 </div>
 
----
-
-<p align="center"> Desenvolvedor de software.
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
 - [Projetos](#project)
-- [Idea / Soluções](#idea)
+- [Idéias / Soluções](#idea)
 - [Futuro](#future)
 
 ## 🧐 Projetos <a name="problem_statement"></a>
@@ -32,14 +27,13 @@
 - Biologia Digital - Site
 - Biologia Digital - Mobile
 - Gyzu - Site
-- Jiquitaia Solidaria - Site
 
-## 💡 Idéias / Solution <a name="idea"></a>
+## 💡 Idéias / Soluções <a name="idea"></a>
 
 Varias idéias que sempre gera um ótimo aprendizado. Elas surgem a partir de problemas do dia-a-dia, assim eu tento automatizar, melhorar, agilizar ou criar um software para realizar tais atividades.
 Nem todas as ideias eu consigo colocar em prática, mas, sempre consigo deixalas prontas no papel, esperando para serem codificadas. Um dias elas vão sair do papel e estar disponivel para todos. Alguns exemplos de ideias que ja sairam do papel:
 
-<p align="center"> AnimatedIcons </p>
+<h4 align="center"> AnimatedIcons </h4>
 <p align="center">
     <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
         <img src="https://i.imgur.com/IKN0PJU.png" alt="AnimatedIcons screanshot">
@@ -50,7 +44,7 @@ Um pacote de Icones totalmente animados para web, os icones sao criados com HTM,
 <br>
 <br>
 
-<p align="center"> JJGaming </p>
+<h4 align="center"> JJGaming </h4>
 <p align="center">
     <a href="https://github.com/WilkerLopes/JJGaming" rel="noopener">
         <img src="https://i.imgur.com/tdELOyY.png" alt="JJGaming screanshot">
@@ -64,6 +58,7 @@ Gosto de aprender novas linguagens e melhorar sempre meus conhecimentos. Estudo 
 
 ---
 <div align="center">
+  <h4> Futuro </h4>
 
 [![License](https://img.shields.io/badge/-@wilkerlop-E4405F.svg?style=flat-square&logo=instagram)](https://www.instagram.com/wilker.lop/)
 [![License](https://img.shields.io/badge/-Wilker/Lopes-0077B5.svg?style=flat-square&logo=linkedin)](linkedin.com/in/wilker-lopes-9569a91b0)
