@@ -39,9 +39,7 @@
 Varias idéias que sempre gera um ótimo aprendizado. Elas surgem a partir de problemas do dia-a-dia, assim eu tento automatizar, melhorar, agilizar ou criar um software para realizar tais atividades.
 Nem todas as ideias eu consigo colocar em prática, mas, sempre consigo deixalas prontas no papel, esperando para serem codificadas. Um dias elas vão sair do papel e estar disponivel para todos. Alguns exemplos de ideias que ja sairam do papel:
 
-<p align="center">
-<a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener"> AnimatedIcons </a>
-</p>
+<p align="center"> AnimatedIcons </p>
 <p align="center">
     <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
         <img src="images/AnimatedIcons.png" alt="AnimatedIcons screanshot">
@@ -52,9 +50,7 @@ Um pacote de Icones totalmente animados para web, os icones sao criados com HTM,
 <br>
 <br>
 
-<p align="center">
-<a href="https://github.com/WilkerLopes/JJGaming" rel="noopener"> JJGaming </a>
-</p>
+<p align="center"> JJGaming </p>
 <p align="center">
     <a href="https://github.com/WilkerLopes/JJGaming" rel="noopener">
         <img src="images/JJGaming.png" alt="JJGaming screanshot">
