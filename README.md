@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="images/wilker_lopes.png" alt="Wikler Lopes"></a>
+ <img src="https://i.imgur.com/iy8xKq7.png" alt="Wikler Lopes"></a>
 </p>
 <h3 align="center">👋 Hi, me chamo Wikler Lopes</h3>
 
@@ -42,7 +42,7 @@ Nem todas as ideias eu consigo colocar em prática, mas, sempre consigo deixalas
 <p align="center"> AnimatedIcons </p>
 <p align="center">
     <a href="https://github.com/WilkerLopes/AnimatedIcons" rel="noopener">
-        <img src="images/AnimatedIcons.png" alt="AnimatedIcons screanshot">
+        <img src="https://i.imgur.com/IKN0PJU.png" alt="AnimatedIcons screanshot">
     </a>
 </p>
 
@@ -53,7 +53,7 @@ Um pacote de Icones totalmente animados para web, os icones sao criados com HTM,
 <p align="center"> JJGaming </p>
 <p align="center">
     <a href="https://github.com/WilkerLopes/JJGaming" rel="noopener">
-        <img src="images/JJGaming.png" alt="JJGaming screanshot">
+        <img src="https://i.imgur.com/tdELOyY.png" alt="JJGaming screanshot">
     </a>
 </p>
 Uma plataforma de jogos simples, mas com jogos multiplayer disponível em multiplataformas. Só precisa de um navegador pra poder jogar. indepedente do dispositivo utilizado.
