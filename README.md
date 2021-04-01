@@ -56,12 +56,4 @@ Uma plataforma de jogos simples, mas com jogos multiplayer disponível em multip
 
 Gosto de aprender novas linguagens e melhorar sempre meus conhecimentos. Estudo com foco de torna-me um desenvolvedor Fullstack.
 
----
-<div align="center">
-  <h1> 👨🏽‍💻 Entre em Contato </h1>
-
-[![License](https://img.shields.io/badge/-@wilkerlop-E4405F.svg?style=flat-square&logo=instagram)](https://www.instagram.com/wilker.lop/)
-[![License](https://img.shields.io/badge/-Wilker/Lopes-0077B5.svg?style=flat-square&logo=linkedin)](linkedin.com/in/wilker-lopes-9569a91b0)
-
-</div>
 
