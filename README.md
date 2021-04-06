@@ -7,7 +7,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat-square&logo=jquery)
-![](https://img.shields.io/badge/--777BB4.svg?style=flat-square&logo=php)
+![](https://img.shields.io/badge/--777BB4.svg?style=flat-square&logo=PHP)
 ![](https://img.shields.io/badge/--E34F26.svg?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/--1572b6.svg?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/--1572b6.svg?style=flat-square&logo=ionic)
