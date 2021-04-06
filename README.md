@@ -34,11 +34,8 @@
 
 Varias idéias que sempre gera um ótimo aprendizado. Elas surgem a partir de problemas do dia-a-dia, assim eu tento automatizar, melhorar, agilizar ou criar um software para realizar tais atividades.
 
-## 🚀 Futuro <a name="future"></a>
-
-Gosto de aprender novas linguagens e melhorar sempre meus conhecimentos.
-
 ----
+
 ![WilkerLopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilkerlopes&show_icons=true&hide=contribs,prs&theme=tokyonight&locale=pt-BR&border_radius=12&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerLopes&show_icons=true&theme=tokyonight&locale=pt-BR&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=6)
