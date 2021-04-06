@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img src="https://i.imgur.com/iy8xKq7.png" alt="Wikler Lopes"></a>
+    <img src="https://i.imgur.com/E7B3H9Z.png" title="Wikler Lopes banner" />
 </p>
-<h2 align="center">👋 Hi, me chamo Wikler Lopes</h2>
+<h2 align="center">👋 Hi, me chamo Wilker Lopes</h2>
 
 <div align="center">
 
