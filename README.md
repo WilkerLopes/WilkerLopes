@@ -25,15 +25,7 @@
 
 ## Sobre
 
-Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Depois de um desafio, amei trabalhar com vue.js.
-
-## 🧐 Projetos
-
-- Biologia Digital - Site
-- Biologia Digital - Mobile
-- Gyzu - Site
-- AnimatedIcons - Site
-- JJGaming - Site
+Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados.
 
 ## 💡 Idéias / Soluções
 
