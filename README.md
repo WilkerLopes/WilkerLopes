@@ -37,4 +37,6 @@ Varias idéias que sempre gera um ótimo aprendizado. Elas surgem a partir de pr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerLopes&show_icons=true&theme=algolia&locale=pt-BR&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=6)
 
+![](https://github-profile-trophy.vercel.app/?username=WilkerLopes&theme=algolia&locale=pt-BR&border_radius=12&hide_border=true&layout=compact&margin-w=4)
+
 
